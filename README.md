@@ -32,7 +32,7 @@
   <a class="button" id="tgButton">Перейти в Telegram</a>
 
   <script>
-    const url = "https://t.me/+7BiCB40rmq9jMjIy";
+    const url = "https://t.me/+wEM0vEXNm3o4ZTk6";
 
     document.getElementById("tgButton").addEventListener("click", () => {
       // Создаём ссылку и кликаем её для открытия во внешнем браузере
